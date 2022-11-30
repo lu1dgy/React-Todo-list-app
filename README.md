@@ -1,4 +1,3 @@
-# React project for react course
 <h1>React todo list app.</h1> 
 
 <h2>Description:</h2>
