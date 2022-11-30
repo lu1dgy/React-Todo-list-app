@@ -1,6 +1,20 @@
 # React project for react course
+<h1>React todo list app.</h1> 
 
-## Available Scripts
+<h2>Description:</h2>
+<p>It is react project, where you can add, delete all notes or done ones.</p>
+
+<h3>Technologies:</h3>
+<ul>
+<li>React.js</li>
+<li>HTML5</li>
+<li>CSS3</li>
+</ul>
+
+<h3>This project is finished.</h3>
+Link: https://lu1dgy.github.io/React-Todo-list-app/
+
+## About cripts
 
 In the project directory, you can run:
 
